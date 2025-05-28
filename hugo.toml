@@ -1,6 +1,6 @@
 baseURL = 'https://ddtpow2.github.io/sharing-site/'
-languageCode = 'en-US'
-title = "ddt"
+languageCode = 'zh-CN'
+title = "DDT的平方"
 
 theme = "PaperMod"
 
