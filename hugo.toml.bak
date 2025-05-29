@@ -11,6 +11,14 @@ enableGitInfo = true
   ShowLastMod = true
   ShowReadingTime = true
   ShowWordCount = true
+  ShowBreadCrumbs= true
 
-[frontmatter]
-  lastmod = ['lastmod', ':fileModTime', ':default']
+  ShowAllPages = false
+  ShowSections = true
+  
+[params.homepage]
+  layout = "default"
+
+[params.homeInfoParams]
+  Title = "欢迎！"
+  Content = "菜都是自己种的。我已经做好了，要不要吃吃看？"

@@ -1,18 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Welcome on 敌敌畏的菜园子</title>
+    <title>敌敌畏的菜园子</title>
     <link>http://localhost:1313/sharing-site/</link>
-    <description>Recent content in Welcome on 敌敌畏的菜园子</description>
+    <description>Recent content on 敌敌畏的菜园子</description>
+    <image>
+      <title>敌敌畏的菜园子</title>
+      <url>http://localhost:1313/sharing-site/images/DDVP.png</url>
+      <link>http://localhost:1313/sharing-site/images/DDVP.png</link>
+    </image>
     <generator>Hugo -- 0.147.2</generator>
-    <language>zh-CN</language>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/sharing-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第一章</title>
-      <link>http://localhost:1313/sharing-site/novel-a/ch01/</link>
+      <title>不宜与水象星座争执</title>
+      <link>http://localhost:1313/sharing-site/posts/novel-a/novel-a/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sharing-site/novel-a/ch01/</guid>
+      <guid>http://localhost:1313/sharing-site/posts/novel-a/novel-a/</guid>
+      <description>一个混乱又湿冷的长篇故事</description>
+    </item>
+    <item>
+      <title>第一章</title>
+      <link>http://localhost:1313/sharing-site/posts/novel-a/ch01/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sharing-site/posts/novel-a/ch01/</guid>
       <description>&lt;p&gt;first try&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>第二章</title>
+      <link>http://localhost:1313/sharing-site/posts/novel-a/ch02/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sharing-site/posts/novel-a/ch02/</guid>
+      <description>&lt;p&gt;second try&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/sharing-site/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sharing-site/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>所有作品</title>
+      <link>http://localhost:1313/sharing-site/all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sharing-site/all/</guid>
+      <description>archives</description>
     </item>
   </channel>
 </rss>

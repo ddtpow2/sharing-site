@@ -4,8 +4,13 @@
     <title>Tags on 敌敌畏的菜园子</title>
     <link>http://localhost:1313/sharing-site/tags/</link>
     <description>Recent content in Tags on 敌敌畏的菜园子</description>
+    <image>
+      <title>敌敌畏的菜园子</title>
+      <url>http://localhost:1313/sharing-site/images/DDVP.png</url>
+      <link>http://localhost:1313/sharing-site/images/DDVP.png</link>
+    </image>
     <generator>Hugo -- 0.147.2</generator>
-    <language>zh-CN</language>
+    <language>en</language>
     <atom:link href="http://localhost:1313/sharing-site/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
