@@ -1,15 +1,3 @@
-<!-- LikeBtn.com BEGIN -->
-<span class="likebtn-wrapper" 
-        data-theme="bootstrap" 
-        data-lang="zh_CN" 
-        data-ef_voting="grow" 
-        data-identifier="{{ .RelPermalink }}"
-        data-votes_like="0"
-        data-votes_dislike="0">
-</span>
-<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
-<!-- LikeBtn.com END -->
-
 <script src="https://giscus.app/client.js"
         data-repo="ddtpow2/sharing-site"
         data-repo-id="R_kgDOOx2qeA"
@@ -17,8 +5,8 @@
         data-category-id="DIC_kwDOOx2qeM4CqrUn"
         data-mapping="specific"
         data-term="{{ .File.Path | urlize }}"
-#        data-strict="0"
-      #  data-reactions-enabled="0"
+        data-strict="0"
+        data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="top"
         data-theme="preferred_color_scheme"
