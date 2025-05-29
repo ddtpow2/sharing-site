@@ -4,4 +4,13 @@ title = "敌敌畏的菜园子"
 
 theme = "PaperMod"
 
+enableGitInfo = true
 
+[params]
+  ShowPostDate = true
+  ShowLastMod = true
+  ShowReadingTime = true
+  ShowWordCount = true
+
+[frontmatter]
+  lastmod = ['lastmod', ':fileModTime', ':default']
