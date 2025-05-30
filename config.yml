@@ -67,7 +67,7 @@ params:
   ShowAllPages: false
   ShowSections: true
   # ShowShareButtons: true
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowPostDate: true
   ShowLastMod: true
   # disableSpecial1stPost: true
