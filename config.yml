@@ -108,9 +108,14 @@ params:
 
       地里的稻草人告诉我，俗话说：“种瓜得瓜，种豆得豆”。所以我在想，谁能送我一颗摇钱树种子吗？
 
-      罢了，谈钱不仅俗气，还总让人黯然神伤。不如看看我的作品吧，说不定会变得更伤心呢。
+      罢了，谈钱不仅俗气，还总让人黯然神伤。不如看看我的作品吧，说不定会变得更伤心呢。  
 
-  # socialIcons:
+      
+
+  socialIcons:
+  - name: email
+    title: 联系作者
+    url: "mailto:ddt222@icloud.com"
   #   - name: github
   #     title: View Source on Github
   #     url: "https://github.com/adityatelange/hugo-PaperMod"
