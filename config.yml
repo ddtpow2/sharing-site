@@ -110,12 +110,10 @@ params:
 
       罢了，谈钱不仅俗气，还总让人黯然神伤。不如看看我的作品吧，说不定会变得更伤心呢。  
 
-      
-
-  socialIcons:
-  - name: email
-    title: 联系作者
-    url: "mailto:ddt222@icloud.com"
+  # socialIcons:
+  # - name: email
+  #   title: 联系作者
+  #   url: "mailto:ddt222@icloud.com"
   #   - name: github
   #     title: View Source on Github
   #     url: "https://github.com/adityatelange/hugo-PaperMod"
