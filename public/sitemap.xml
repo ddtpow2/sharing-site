@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/sharing-site/posts/</loc>
-    <lastmod>2025-05-29T21:11:54-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/sharing-site/posts/novel-a/novel-a/</loc>
-    <lastmod>2025-05-29T21:03:32-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sharing-site/</loc>
-    <lastmod>2025-05-29T21:15:00-07:00</lastmod>
+    <lastmod>2025-05-30T19:45:15-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/posts/novel-a/ch01/</loc>
-    <lastmod>2025-05-29T21:11:54-07:00</lastmod>
+    <lastmod>2025-05-30T18:34:36-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/posts/novel-a/ch02/</loc>
-    <lastmod>2025-05-28T22:57:53-07:00</lastmod>
+    <lastmod>2025-05-30T19:45:15-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sharing-site/posts/novel-a/ch03/</loc>
+    <lastmod>2025-05-30T19:45:15-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sharing-site/posts/novel-a/ch04/</loc>
+    <lastmod>2025-05-30T19:45:15-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sharing-site/posts/</loc>
+    <lastmod>2025-05-30T19:45:15-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sharing-site/</loc>
+    <lastmod>2025-05-30T19:45:15-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/about/</loc>
     <lastmod>2025-05-28T22:57:53-07:00</lastmod>
