@@ -64,7 +64,7 @@ params:
 
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowAllPages: false
+  ShowAllPages: true
   ShowSections: true
   # ShowShareButtons: true
   ShowReadingTime: false
@@ -97,18 +97,18 @@ params:
       - name: Tags
         url: tags
 
-  homeInfoParams:
-    Title: "你好! 这里是我的菜园子。"
-    Content: >
-      ![cover-image](/sharing-site/images/DDVP.png)  
+  # homeInfoParams:
+  #   Title: "你好! 这里是我的菜园子。"
+  #   Content: >
+  #     ![cover-image](/sharing-site/images/DDVP.png)  
 
-      👋 欢迎！  
+  #     👋 欢迎！  
 
-      从地里现拔的，到我现编的，应有尽有（假的）！菜我已经做好了，辅以高剂量DDVP，要不要吃吃看？  
+  #     从地里现拔的，到我现编的，应有尽有（假的）！菜我已经做好了，辅以高剂量DDVP，要不要吃吃看？  
 
-      地里的稻草人告诉我，俗话说：“种瓜得瓜，种豆得豆”。所以我在想，谁能送我一颗摇钱树种子吗？
+  #     地里的稻草人告诉我，俗话说：“种瓜得瓜，种豆得豆”。所以我在想，谁能送我一颗摇钱树种子吗？
 
-      罢了，谈钱不仅俗气，还总让人黯然神伤。不如看看我的作品吧，说不定会变得更伤心呢。  
+  #     罢了，谈钱不仅俗气，还总让人黯然神伤。不如看看我的作品吧，说不定会变得更伤心呢。  
 
   # socialIcons:
   # - name: email
