@@ -1,6 +1,7 @@
 ---
 title: "不宜与水象星座争执"
 date: '2025-05-27'
+layout: "customindex"
 hiddenInHomeList: false
 summary: "一个混乱又克制的长篇故事"
 weight: 1
@@ -23,9 +24,13 @@ weight: 1
 你若问角色和一些代号的名字怎么起的——AI 生成的。
 
 ## 目录
-<!-- - [第一章](ch01.md)
-- [第二章](ch02.md)
-- [第三章](ch03.md)
-- [第四章](ch04.md)
-- [第五章](ch05.md)
-- [第六章](ch06.md) -->
+
+### 上部
+{{< chapteritem link="posts/novel-a/ch01">}}
+{{< chapteritem link="posts/novel-a/ch02">}}
+{{< chapteritem link="posts/novel-a/ch03">}}
+{{< chapteritem link="posts/novel-a/ch04">}}
+{{< chapteritem link="posts/novel-a/ch05">}}
+{{< chapteritem link="posts/novel-a/ch06">}}
+{{< chapteritem link="posts/novel-a/ch07">}}
+{{< chapteritem link="posts/novel-a/ch08">}}

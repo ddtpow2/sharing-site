@@ -34,12 +34,12 @@ languages:
       series: series
     menu:
       main:
-        - name: 时间轴
+        - name: 存档
           url: archives
           weight: 5
-        - name: 所有作品
-          url: all
-          weight: 5
+        # - name: 所有作品
+        #   url: all
+        #   weight: 5
         # - name: Search
         #   url: search/
         #   weight: 10
@@ -63,8 +63,8 @@ params:
   author: ["ddtpow2"] # multiple authors
 
   defaultTheme: auto
-  # disableThemeToggle: true
-  ShowAllPages: true
+  disableThemeToggle: false
+  ShowAllPages: false
   ShowSections: true
   # ShowShareButtons: true
   ShowReadingTime: false
@@ -74,7 +74,7 @@ params:
   displayFullLangName: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
+  ShowCodeCopyButtons: false
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
   ShowPageNums: true

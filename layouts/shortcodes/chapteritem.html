@@ -1,0 +1,14 @@
+{{ $page := .Site.GetPage (.Get "link") }}
+{{ if $page }}
+<a href="{{ $page.RelPermalink }}" class="chapteritem">
+    <span class="chapter-title" style="font-size: 1.rem; font-weight: bold;">{{ $page.Title }}
+        &nbsp;&nbsp;
+        <span style="font-weight: lighter; font-size: 0.8rem; color: #666;" class="chapter-meta">
+            {{ $page.Date.Format "2006-01-02" }} &nbsp;·&nbsp;
+            (updated {{ $page.Lastmod.Format "2006-01-02" }})
+    </span>
+    </span>
+</a>
+{{ else }}
+<p style="color:red;">Invalid link: {{ .Get "link" }}</p>
+{{ end }}

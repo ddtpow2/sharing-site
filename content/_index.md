@@ -20,9 +20,10 @@ summary: "所有作品"
 ## 作品列表
 
 {{< listcard
-  link="posts/novel-a"
-  title="不宜与水象星座争执"
-  desc="一个混乱又孤独的长篇故事。"
-  date="2025-05-13"
-  status="已完结;更新中"
+    link="posts/novel-a"
+    title="不宜与水象星座争执"
+    desc="一个混乱又孤独的长篇故事。"
+    date="2025-05-13"
+    status="已完结;更新中"
+    type="长篇"
 >}}
