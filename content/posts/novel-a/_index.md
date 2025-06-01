@@ -34,3 +34,9 @@ weight: 1
 {{< chapteritem link="posts/novel-a/ch06">}}
 {{< chapteritem link="posts/novel-a/ch07">}}
 {{< chapteritem link="posts/novel-a/ch08">}}
+{{< chapteritem link="posts/novel-a/ch09">}}
+{{< chapteritem link="posts/novel-a/ch10">}}
+{{< chapteritem link="posts/novel-a/ch11">}}
+
+### 下部
+{{< chapteritem link="posts/novel-a/ch12">}}

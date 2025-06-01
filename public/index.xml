@@ -76,6 +76,20 @@
       <description>“第九章”</description>
     </item>
     <item>
+      <title>第十章</title>
+      <link>http://localhost:1313/sharing-site/posts/novel-a/ch10/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sharing-site/posts/novel-a/ch10/</guid>
+      <description>“第十章”</description>
+    </item>
+    <item>
+      <title>第十一章</title>
+      <link>http://localhost:1313/sharing-site/posts/novel-a/ch11/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sharing-site/posts/novel-a/ch11/</guid>
+      <description>“第十一章”</description>
+    </item>
+    <item>
       <title>所有作品</title>
       <link>http://localhost:1313/sharing-site/all/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
