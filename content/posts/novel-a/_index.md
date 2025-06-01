@@ -3,7 +3,7 @@ title: "不宜与水象星座争执"
 date: '2025-05-27'
 layout: "customindex"
 hiddenInHomeList: false
-summary: "一个混乱又克制的长篇故事"
+summary: "一个混乱又孤独的长篇故事"
 weight: 1
 ---
 
