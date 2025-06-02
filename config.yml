@@ -34,7 +34,7 @@ languages:
       series: series
     menu:
       main:
-        - name: 存档
+        - name: 归档
           url: archives
           weight: 5
         # - name: 所有作品
