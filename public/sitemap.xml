@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/sharing-site/posts/novel-a/</loc>
-    <lastmod>2025-06-01T01:14:25-07:00</lastmod>
+    <lastmod>2025-06-01T16:28:02-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/posts/novel-a/ch01/</loc>
-    <lastmod>2025-05-31T14:58:15-07:00</lastmod>
+    <lastmod>2025-06-01T17:50:06-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/posts/novel-a/ch02/</loc>
-    <lastmod>2025-05-31T14:58:15-07:00</lastmod>
+    <lastmod>2025-06-01T16:28:02-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/posts/novel-a/ch03/</loc>
-    <lastmod>2025-05-31T14:58:15-07:00</lastmod>
+    <lastmod>2025-06-01T16:28:02-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/posts/novel-a/ch04/</loc>
     <lastmod>2025-05-31T14:54:26-07:00</lastmod>
@@ -24,16 +24,22 @@
     <lastmod>2025-05-31T14:58:15-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/posts/novel-a/ch07/</loc>
-    <lastmod>2025-06-01T01:14:25-07:00</lastmod>
+    <lastmod>2025-06-01T14:40:01-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/posts/novel-a/ch08/</loc>
-    <lastmod>2025-06-01T01:14:25-07:00</lastmod>
+    <lastmod>2025-06-01T14:40:01-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/posts/novel-a/ch09/</loc>
-    <lastmod>2025-06-01T01:14:25-07:00</lastmod>
+    <lastmod>2025-06-01T14:40:01-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sharing-site/posts/novel-a/ch10/</loc>
+    <lastmod>2025-06-01T14:35:03-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sharing-site/posts/novel-a/ch11/</loc>
+    <lastmod>2025-06-01T14:30:23-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/posts/</loc>
-    <lastmod>2025-06-01T01:14:25-07:00</lastmod>
+    <lastmod>2025-06-01T17:50:06-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/categories/</loc>
   </url><url>
@@ -48,6 +54,6 @@
     <lastmod>2025-05-28T22:57:53-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/</loc>
-    <lastmod>2025-06-01T01:14:25-07:00</lastmod>
+    <lastmod>2025-06-01T16:28:02-07:00</lastmod>
   </url>
 </urlset>
