@@ -6,7 +6,7 @@
     <lastmod>2025-06-01T19:38:39-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/posts/novel-a/ch01/</loc>
-    <lastmod>2025-06-01T19:28:41-07:00</lastmod>
+    <lastmod>2025-06-01T20:49:30-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/posts/novel-a/ch02/</loc>
     <lastmod>2025-06-01T16:28:02-07:00</lastmod>
@@ -41,8 +41,14 @@
     <loc>http://localhost:1313/sharing-site/posts/novel-a/ch12/</loc>
     <lastmod>2025-06-01T20:44:27-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/sharing-site/posts/novel-a/ch13/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/sharing-site/posts/</loc>
-    <lastmod>2025-06-01T20:44:27-07:00</lastmod>
+    <lastmod>2025-06-01T20:49:30-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sharing-site/posts/novel-a/epilogue/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/categories/</loc>
   </url><url>
@@ -50,11 +56,11 @@
   </url><url>
     <loc>http://localhost:1313/sharing-site/tags/</loc>
   </url><url>
+    <loc>http://localhost:1313/sharing-site/archives/</loc>
+    <lastmod>2025-06-01T20:49:30-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/sharing-site/all/</loc>
     <lastmod>2025-06-01T01:14:25-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sharing-site/archives/</loc>
-    <lastmod>2025-05-28T22:57:53-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sharing-site/</loc>
     <lastmod>2025-06-01T16:28:02-07:00</lastmod>

@@ -42,3 +42,4 @@ weight: 1
 
 ### 下部
 {{< chapteritem link="posts/novel-a/ch12">}}
+{{< chapteritem link="posts/novel-a/ch13">}}
