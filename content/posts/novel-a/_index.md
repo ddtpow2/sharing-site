@@ -7,6 +7,15 @@ summary: "一个混乱又孤独的长篇故事"
 weight: 1
 ---
 
+## 声明
+
+本页面仅展示《不宜与水象星座争执》的节选内容，用于非商业性质的阅读交流。
+完整作品已于 2025 年登记版权（登记号待补），尚未正式出版。
+
+This webpage displays selected excerpts of the unpublished manuscript titled “It is Unwise to Argue with Water Signs.”  
+The complete work has been registered with the U.S. Copyright Office in 2025 and has not been published.
+
+
 ## 说明
 
 <!-- 故事设定在一个架空的行政世界，每个人都被悄无声息地引导至“最合适”的社会角色上。主人公在制度的温和裹挟中一路升迁，恋爱、服从、背叛、反抗、再服从……她始终保持冷静，偶尔也爆炸。 -->
@@ -42,4 +51,3 @@ weight: 1
 
 ### 下部
 {{< chapteritem link="posts/novel-a/ch12">}}
-{{< chapteritem link="posts/novel-a/ch13">}}
