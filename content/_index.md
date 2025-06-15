@@ -7,7 +7,7 @@ summary: "所有作品"
 
 ## "你好! 这里是我的菜园子。"
 
-![cover-image](/sharing-site/images/DDVP.png)  
+![cover-image](/sharing-site/images/monkey_ddvp.png)  
 
 👋 欢迎！  
 
